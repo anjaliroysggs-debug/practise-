@@ -1,3 +1,3 @@
 # practise-
 author-anjali
-<h1>practise is very important</h1>
+<h1>education is very important</h1>
